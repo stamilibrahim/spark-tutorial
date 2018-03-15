@@ -1,0 +1,17 @@
+caller_msisdn,0
+callee_msisdn,1
+date,2
+time,3
+duration,4
+action_type,5
+caller_imei,6
+callee_imei,7
+caller_imsi,8
+callee_imsi,9
+base_station_position,10
+base_station_id,11
+end_location,12
+latitude,13
+longitude,14
+caller_operator_name,15
+callee_operation_name,16
